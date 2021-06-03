@@ -11,3 +11,4 @@ This respository is meant to exist as a sandbox to demostrate merge conflicts th
 - Edit document heading
 - Merge branch 'readme' into 'main'
 - Check to see conflicts
+- Update: No conflicts!
