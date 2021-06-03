@@ -14,3 +14,5 @@ This respository is meant to exist as a sandbox to demostrate merge conflicts th
 - Update: No conflicts!
 
 ## Reverting Test
+
+/ this text is baaaaad /
