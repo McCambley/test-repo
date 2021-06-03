@@ -15,4 +15,4 @@ This respository is meant to exist as a sandbox to demostrate merge conflicts th
 
 ## Revert Test
 
-This is text I like that I will continue editing! I really like editing and I think it's fun.
+This is text I like that I will continue editing
