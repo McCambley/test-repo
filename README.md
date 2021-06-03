@@ -12,3 +12,5 @@ This respository is meant to exist as a sandbox to demostrate merge conflicts th
 - Merge branch 'readme' into 'main'
 - Check to see conflicts
 - Update: No conflicts!
+
+## Revert Test
